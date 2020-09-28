@@ -9,7 +9,7 @@ The recorded  “movie” of light pulses from each ZMW can be interpreted into 
 PacBio company successfully develop the single-molecule real-time sequencing and increase the throughput and the cost-effectivity. Thus, Sequel I platform has the SMRT cell with 1 M of ZMWs and was recently replaced by Sequel II platform, which delivers about 8X more reads with 8 million ZMWs per SMRT Cell. 
 
 
-[Generation of circular consensus sequence](https://www.nature.com/articles/s41587-019-0217-9/figures/1) 
-<img src=“https://www.nature.com/articles/s41587-019-0217-9/figures/1”>
+![Generation of circular consensus sequence](https://www.nature.com/articles/s41587-019-0217-9/figures/1, "Generation of circular consensus sequence") 
+
 
 
