@@ -10,6 +10,6 @@ PacBio company successfully develop the single-molecule real-time sequencing and
 
 
 [Generation of circular consensus sequence](https://www.nature.com/articles/s41587-019-0217-9/figures/1) 
-
+<img src=“https://www.nature.com/articles/s41587-019-0217-9/figures/1”>
 
 
