@@ -1,5 +1,5 @@
 # AAV_PB
-Here I publish the description and the basic workflow for PacBio Sequencing data analysis
+Here I publish description and the basic workflow for PacBio Sequencing data analysis
 
 
 
